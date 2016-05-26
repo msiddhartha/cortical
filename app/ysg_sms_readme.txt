@@ -1,0 +1,8 @@
+- identify message types
+- save it to database
+- e-mail stuff to people
+- do calculations
+	- requires message identification
+- pass it to error log
+	- if message couldn't be identified with any pattern
+- slack certain messages to certain channels

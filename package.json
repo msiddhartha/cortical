@@ -1,0 +1,23 @@
+{
+  "name": "eventor",
+  "version": "1.0.0",
+  "description": "YSG bus",
+  "main": "cortical.js",
+  "dependencies": {
+    "amqplib": "^0.4.1",
+    "co-body": "^4.0.0",
+    "finished": "^1.2.2",
+    "koa": "^1.2.0",
+    "koa-better-body": "^2.0.0",
+    "koa-favicon": "^1.2.1",
+    "koa-route": "^2.4.2",
+    "koa-multer": "^1.0.0",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
